@@ -1,0 +1,2 @@
+Módulo de reportes del sistema académico.
+Este archivo contiene información relacionada con los reportes.
