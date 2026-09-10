@@ -1,0 +1,8 @@
+Sistema Académico
+Validaciones
+
+Validación de datos de estudiantes:
+- Nombre obligatorio.
+- Identificación obligatoria.
+- Correo electrónico válido.
+- Información completa antes de guardar.
